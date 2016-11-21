@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   inkscape:export-filename="/home/vighnesh/Desktop/fredo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.62741916"
+     inkscape:cx="445.21896"
+     inkscape:cy="603.71474"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-28.362183)">
+    <path
+       style="fill:none;stroke:#eb6d19;stroke-width:22.10000000000000142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 73.316217,68.968566 C 204.97568,99.561216 218.16068,1168.7742 390.48855,368.60876 449.12767,93.274816 510.04879,-144.00585 604.59741,378.82722 742.77327,1065.3402 770.97481,341.08166 913.93216,69.867806"
+       id="path3888"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#235c85;stroke-width:26.39999962;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 77.41004,367.67983 c 144.10192,-367.83777371 252.69962,-425.96172 419.7941,6.76206 209.65619,527.34893 310.36895,229.84043 419.24858,-5.83313"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       id="path3093" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3890"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:144px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3892"><rect
+           id="rect3894"
+           width="811.25989"
+           height="200.82268"
+           x="130.69412"
+           y="721.17212"
+           style="font-size:144px" /></flowRegion><flowPara
+         id="flowPara3896"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:72.82144928px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="168.50638"
+       y="899.42462"
+       id="text3898"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3900"
+         x="168.50638"
+         y="899.42462"
+         style="font-size:262.15719604px"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#235c85;fill-opacity:1;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math Italic"
+           id="tspan3904">Fre</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#eb6d19;fill-opacity:1;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+           id="tspan3902">Do</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 90.848357,920.07423 865.450133,0"
+       id="path3925"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3927"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(207.19801,9.2362135)"><flowRegion
+         id="flowRegion3929"><rect
+           id="rect3931"
+           width="671.00281"
+           height="81.28537"
+           x="204.01035"
+           y="912.43182" /></flowRegion><flowPara
+         id="flowPara3933"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono">Editor</flowPara></flowRoot>  </g>
+</svg>
